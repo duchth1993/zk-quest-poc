@@ -6,7 +6,7 @@ A lightweight Proof of Concept for the **Endless Ecosystem Creative Proposal Com
 
 ## ✅ Demo
 Open `zk-quest.html` locally or view on:  
-🔗 https://haust-labs.github.io/zk-quest-poc/
+🔗 https://duchth1993.github.io/zk-quest-poc/
 
 ## 🧠 Features
 - 5 gamified quests to learn DID, ZKP, AI Judger
